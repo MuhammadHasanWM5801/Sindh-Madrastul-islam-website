@@ -1,0 +1,221 @@
+.navbar{
+    background-color: rgba(35, 5, 63, 0.952) !important; 
+    color: white;
+    height: 35px;
+}
+
+.nav-link{
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+
+}
+
+.li{
+
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 700px;
+    margin-top: 10px;
+    height: 60px;
+
+
+}
+
+.nav-link1{
+    color: black;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    
+}
+
+.nav-link1:hover{
+    color: brown;
+    text-decoration: none;
+    
+
+}
+
+.navbar1{
+    height: 70px !important;
+    
+    
+}
+
+h1{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
+
+.smiu{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 80px;
+    margin-top: 50px;
+}
+
+.well{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    color: rgb(7, 7, 56);
+}
+
+.xyz{
+    margin-right: 80px;
+}
+
+.tab{
+    text-align: justify;
+}
+
+.dep{
+    background-color: rgb(20, 20, 70);
+    color: white;
+    margin-bottom: 5%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    box-shadow: 2px 4px 5px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+
+h5{
+    color: brown ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bat{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ne{
+
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    
+
+}
+
+.pe{
+    background-color: rgb(238, 238, 238);;
+}
+
+.card-title{
+    color: brown;
+    text-align: center;
+}
+
+.card-deck{
+    margin-right: 170px !important;
+    margin-left: 170px !important;
+   
+}
+
+.msg{
+    background-color: rgba(48, 28, 66, 0.952); 
+    color: white;
+    margin-top: 100px;
+}
+
+.vc{
+
+    text-align: justify;
+   margin-left: 150px;
+   margin-right: 150px;
+   margin-top:100px ;
+
+}
+
+.abc{
+
+    height: 60%;
+    width: 50%;
+    margin-right: 400px;
+    margin-top: 100px;
+
+
+}
+
+.st{
+
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    
+
+}
+
+.card-img-top1{
+    height: 80%;
+}
+
+.fo{
+    background-color: rgb(250, 242, 242);
+}
+
+.fooo{
+    margin-top: 30px;
+    width: 100%;
+}
+
+.foot{
+    background-color: brown;
+    margin-top: 40px;
+    height: 100%;
+}
+
+.test{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dropdown-item{
+    background-color: rgba(48, 28, 66, 0.952) !important;
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
